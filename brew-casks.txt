@@ -31,3 +31,4 @@ gimp
 balenaetcher
 obs
 httpie
+spotify
