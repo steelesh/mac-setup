@@ -25,3 +25,4 @@ woff2
 fonttools
 gh
 hey
+postgresql@17
