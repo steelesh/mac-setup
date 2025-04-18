@@ -32,3 +32,4 @@ balenaetcher
 obs
 httpie
 spotify
+postico
