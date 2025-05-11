@@ -27,3 +27,4 @@ gh
 hey
 postgresql@17
 golang-migrate
+redis
