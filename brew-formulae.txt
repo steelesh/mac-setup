@@ -29,3 +29,4 @@ postgresql@17
 golang-migrate
 redis
 direnv
+yarn
